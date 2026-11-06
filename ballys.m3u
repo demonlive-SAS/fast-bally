@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="ballys.xml"
-#EXTINF:-1 tvg-id="ballys.stadium" tvg-name="Watch Stadium Channel on Bally Sports Live" tvg-logo="https://stratosphere-assets.ballysports.com/main/channel-logos/ChannelLogo_Stadium_transparent_color_1024x628.png" group-title="Fast Ballys",Watch Stadium Channel on Bally Sports Live
-https://fast01.channels.ballys.tv/abr_default/index_dvr.m3u8
 #EXTINF:-1 tvg-id="ballys.milb" tvg-name="Watch Minor League Baseball (MiLB) Channel on Bally Sports Live" tvg-logo="https://stratosphere-assets.ballysports.com/main/channel-logos/MiLB_ChannelLogo_Transparent_FullColor_Horizontal.png" group-title="Fast Ballys",Watch Minor League Baseball (MiLB) Channel on Bally Sports Live
 https://fast02.channels.ballys.tv/abr_default/index_dvr.m3u8
 #EXTINF:-1 tvg-id="ballys.milb-extra" tvg-name="Watch MiLB Extra: More Minor League Baseball" tvg-logo="https://stratosphere-assets.ballysports.com/main/channel-logos/MiLBExtra_ChannelLogo_Transparent_Color.png" group-title="Fast Ballys",Watch MiLB Extra: More Minor League Baseball
 https://lnr01.channels.ballys.tv/abr_default/index_dvr.m3u8
+#EXTINF:-1 tvg-id="ballys.stadium" tvg-name="Watch Stadium Channel on Bally Sports Live" tvg-logo="https://stratosphere-assets.ballysports.com/main/channel-logos/ChannelLogo_Stadium_transparent_color_1024x628.png" group-title="Fast Ballys",Watch Stadium Channel on Bally Sports Live
+https://fast01.channels.ballys.tv/abr_default/index_dvr.m3u8
 #EXTINF:-1 tvg-id="ballys.ballys-chicago-construction" tvg-name="Watch Bally’s Chicago Casino Construction Live Stream" tvg-logo="https://stratosphere-assets.ballysports.com/main/channel-logos/ChannelLogo_BallysChicago_transparent_color_1024x628.png" group-title="Fast Ballys",Watch Bally’s Chicago Casino Construction Live Stream
 https://linear30.channels.ballys.tv/abr_default/index.m3u8
